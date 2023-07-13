@@ -1,0 +1,30 @@
+.sign-in, .sign-in * { box-sizing: border-box; }.sign-in {background: linear-gradient(180deg, rgba(48, 67, 120, 1.00) 0%,rgba(23, 118, 157, 1.00) 100%); border-radius: 30px; width: 360px; height: 800px; position: relative; overflow: hidden;}
+ .latar-belakang {opacity: 0.800000011920929; width: 485px; height: 800px; position: absolute; left: calc(50% - 180px);top: calc(50% - 400px);}
+ .logo {position: absolute; inset: 0;}
+ .group-2881 {width: 121.07px; height: 48.96px; position: static;}
+ .group-2877 {position: absolute; left: 164.35px;top: 115.04px; overflow: visible;}
+ .group-2878 {position: absolute; left: 164.35px;top: 125px; overflow: visible;}
+ .group-2879 {position: absolute; left: 164.35px;top: 139.73px; overflow: visible;}
+ .group-2880 {position: absolute; left: 164.35px;top: 154.44px; overflow: visible;}
+ .group-2882 {position: absolute; left: 74px;top: 115px; overflow: visible;}
+ .masuk-ke-akun {position: absolute; inset: 0;}
+ .rectangle-2094 {border-radius: 25px; position: absolute; left: 0px;top: 238px; overflow: visible;}
+ .nama-pengguna {width: 270px; height: 30px; position: static;}
+ .rectangle-2090 {background: #f1f1f1; border-radius: 25px; width: 270px; height: 30px; position: absolute; left: calc(50% - 134px);top: 363px;}
+ .vector {position: absolute; left: 58px;top: 371px; overflow: visible;}
+ .nama-pengguna-e-mail {color: #c5c8c9; text-align: left; font: 400 10px 'Proxima Nova', sans-serif; position: absolute; left: calc(50% - 94px);top: 372px;}
+ .kata-sandi {width: 270px; height: 30px; position: static;}
+ .rectangle-2091 {background: #f1f1f1; border-radius: 25px; width: 270px; height: 30px; position: absolute; left: calc(50% - 134px);top: 408px;}
+ .vector2 {position: absolute; left: 58px;top: 416px; overflow: visible;}
+ .kata-sandi2 {color: #c5c8c9; text-align: left; font: 400 10px 'Proxima Nova', sans-serif; position: absolute; left: calc(50% - 94px);top: 417px;}
+ .masuk {width: 240px; height: 30px; position: static;}
+ .rectangle-2092 {background: #304478; border-radius: 25px; width: 240px; height: 30px; position: absolute; left: calc(50% - 120px);top: 468px;}
+ .masuk2 {color: #ffffff; text-align: left; font: 600 14px 'Proxima Nova', sans-serif; position: absolute; left: calc(50% - 22px);top: 475px;}
+ .lupa-kata-sandi {width: 240px; height: 30px; position: static;}
+ .rectangle-2093 {background: #f1f1f1; border-radius: 25px; width: 240px; height: 30px; position: absolute; left: calc(50% - 120px);top: 513px;}
+ .lupa-kata-sandi2 {color: #6c6c6c; text-align: left; font: 400 12px 'Proxima Nova', sans-serif; position: absolute; left: calc(50% - 45px);top: 521px;}
+ .info {width: 180px; height: 54px; position: static;}
+ .selamat-datang {width: 180px; height: 29px; position: static;}
+ .selamat-datang2 {color: #304478; text-align: center; font: 700 24px 'Proxima Nova', sans-serif; position: absolute; left: calc(50% - 90px);top: 284px;}
+ .selamat-datang3 {width: 156px; height: 15px; position: static;}
+ .silahkan-masuk-ke-akun-anda {color: #6c6c6c; text-align: center; font: 400 12px 'Proxima Nova', sans-serif; position: absolute; left: calc(50% - 78px);top: 323px;}
